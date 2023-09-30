@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="hello_cpw_student">Hello CPW Student!</string>
+    <string name="choose_the_larger_value">Choose the Larger Value</string>
+    <string name="score_0">Score: 0</string>
+    <string name="button">Button</string>
+</resources>
